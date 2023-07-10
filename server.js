@@ -6,7 +6,7 @@
 *
 * Name: Simran Saini    Student ID: 167685213  Date: 07/09/2023
 *
-* Cyclic Web App URL: https://amused-handbag-seal.cyclic.app/
+* Cyclic Web App URL: https://fancy-plum-coypu.cyclic.app/
 *
 * GitHub Repository URL: https://github.com/Saini-Simran/web322-app
 *
