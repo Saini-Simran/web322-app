@@ -1,18 +1,13 @@
 /*********************************************************************************
-* WEB322 – Assignment 04
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part
-* of this assignment has been copied manually or electronically from any other source
-* (including 3rd party web sites) or distributed to other students.
-*
-* Name: Simran Saini    Student ID: 167685213  Date: 07/09/2023
-*
-* Cyclic Web App URL: https://fancy-plum-coypu.cyclic.app/
-*
-* GitHub Repository URL: https://github.com/Saini-Simran/web322-app
-*
-********************************************************************************/
-
-
+ *  WEB322 – Assignment 02
+ *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source
+ *  (including 3rd party web sites) or distributed to other students.
+ *
+ *  Name: Simran Saini Student ID: 167685213 Date: 07/09/2023
+ *
+ *  Online (Cyclic) Link: https://zany-ox-sweatshirt.cyclic.app/about
+ *
+ ********************************************************************************/
 const express = require("express");
 const multer = require("multer");
 const cloudinary = require("cloudinary").v2;
@@ -86,7 +81,7 @@ app.engine(
 );
 app.set("view engine", ".hbs");
 
-// Set Cloudinary configuration
+// Configuring Cloudinary
 cloudinary.config({
   cloud_name: "dnw6wnzfv",
   api_key: "426271796116721",
