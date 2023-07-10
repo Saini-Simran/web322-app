@@ -1,11 +1,25 @@
 /*********************************************************************************
- *  WEB322 – Assignment 02
- *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source
- *  (including 3rd party web sites) or distributed to other students.
- *
- *  Name: Simran Saini Student ID: 167685213 Date: 07/09/2023
- *
- *  Online (Cyclic) Link: https://zany-ox-sweatshirt.cyclic.app/about
+* WEB322 – Assignment 04
+
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part
+
+* of this assignment has been copied manually or electronically from any other source
+
+* (including 3rd party web sites) or distributed to other students.
+
+*
+
+* Name: _____Simran Saini_________________ Student ID: __167685213____________ Date: ________07/09/2023________
+
+*
+
+* Cyclic Web App URL: https://nice-puce-fox-boot.cyclic.app/blog
+
+*
+
+* GitHub Repository URL: https://github.com/Saini-Simran/web322-app
+
+*
  *
  ********************************************************************************/
 const express = require("express");
