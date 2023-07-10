@@ -6,7 +6,7 @@
 *
 * Name: Simran Saini    Student ID: 167685213  Date: 07/09/2023
 *
-* Cyclic Web App URL: https://adorable-hen-garment.cyclic.app/about
+* Cyclic Web App URL: https://amused-handbag-seal.cyclic.app/
 *
 * GitHub Repository URL: https://github.com/Saini-Simran/web322-app
 *
