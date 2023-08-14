@@ -15,7 +15,7 @@ let User; // to be defined on new connection
 
 module.exports.initialize=()=>{
     return new Promise((resolve, reject) => {
-        const db = mongoose.createConnection("mongodb+srv://", {useNewUrlParser: true, useUnifiedTopology: true});
+        const db = mongoose.createConnection("mongodb+srv://Simran:<Simran@123>@atlascluster.kftfm6m.mongodb.net/?retryWrites=true&w=majority", {useNewUrlParser: true, useUnifiedTopology: true});
     
         db.on("error", (err) => {
           reject(err);
